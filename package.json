@@ -2,7 +2,7 @@
   "author": "Philipp Christoph",
   "name": "phantomjs-pdf",
   "description": "Simple and lightweight HTML to PDF conversion using Node and PhantomJS",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "phantomjs" : "latest",
     "async" : "latest",
